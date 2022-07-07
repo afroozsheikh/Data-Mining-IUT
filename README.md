@@ -19,7 +19,7 @@ The aim of this homework is again EDA and setup phase
 - Question 5: Whole methodology on titanic dataset
 -----
 ### Homework 3
-This homework main focus was on modelling phase. In addition I worked with fuzzy rule-based systems as an extra part of this homework.
+This homework main focus was on modelling phase (Supervised Learning). In addition I worked with fuzzy rule-based systems as an extra part of this homework.
 - Question 1: Working with neural networks
 - Question 2: Feature Selection
 - Question 3: Naive Bayes
@@ -31,5 +31,16 @@ This homework main focus was on modelling phase. In addition I worked with fuzzy
 - Question 9: Ensemble models: AdaBoost
 - Question 10: Ensemble models: XGBoost
 - Question 11: Ensemble models: Stacking Classifier
-
+-----
+### Homework 4
+This homework focused on unsupervised learning
+- Question 1: Kmeans Clustering Algorithm
+- Question 2: Agglomerative Clustering
+- Question 3: DBSCAN algorithm
+-----
+### Homework 5
+This homework focused on Association rule mining
+- Question 1: Association Rules using mlxtend library
+- Question 2: Advanced association rules
+- Question 3: Sequence Pattern Mining
 
