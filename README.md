@@ -1,5 +1,5 @@
 # Data-Mining-IUT
-This repository contains my codes and answers to the Data Mining course homework which I passed in Isfahan University of Technology. In this course we learned Data science methodology shown below. We worked with several datasets for more comprehention as well.
+This repository contains my codes and answers to the Data Mining course homework which I passed in Isfahan University of Technology. In this course we learned about Data science methodology which is shown below. We worked with several datasets for more comprehention as well.
 ![Image alt text](/img_1.PNG)
 ### Homework 1
 This Homework focused on preprocessing and Exploratory Data Analysis (EDA).
