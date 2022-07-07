@@ -42,5 +42,5 @@ This homework focused on unsupervised learning
 This homework focused on Association rule mining
 - Question 1: Association Rules using mlxtend library
 - Question 2: Advanced association rules
-- Question 3: Sequence Pattern Mining
-
+- Question 3: Sequence Pattern Mining usging gsppy algorithm
+ 
